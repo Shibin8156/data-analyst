@@ -1,0 +1,5 @@
+-- CONSTRAINTS
+-- 1.NULL VALUE 2.UNIQUE
+ -- alter table STUDENTS ADD UNIQUE (ID)
+ USE SBN;
+ 
